@@ -1,0 +1,10 @@
+# column-1 : protein volume fraction (%)
+# column-2 : PP1 probability on c-Src per unit surface
+# column-3 : SEM of column-2 
+# column-4 : PP1 probability on BSA   per unit surface
+# column-5 : SEM of column-4
+#
+      0.0000000      14.7439000       0.6918000       0.0000000       0.0000000
+     10.8353000      12.1189000       1.1839000      10.3695000       0.5864000
+     16.8393000       8.0819000       2.2852000       7.5147000       0.4264000
+     29.6335000       6.0936000       3.1777000       4.2099000       0.2061000
