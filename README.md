@@ -26,11 +26,11 @@ Kento Kasahara, Suyong Re, Grzegorz Nawrocki, Hiraku Oshima, Chiemi Mishima-Tsum
 
 * [Figure 14 : Binding pathways predicted from gREST/REUS](./SI/figure14)
 
-* [Figure 15 : Binding trajectories in the dilute solution](./SI/figure15)
+* [Figure 15 : Binding trajectories in dilute solution](./SI/figure15)
 
-* [Figure 16 : Binding trajectories in the crowded solution](./SI/figure16)
+* [Figure 16 : Binding trajectories in crowded solution](./SI/figure16)
 
-* [Figure 17 : Binding trajectories startinf from Er state in Crowded solution](./SI/figure17)
+* [Figure 17 : Binding trajectories starting from Er state in crowded solution](./SI/figure17)
 
 * [Figure 18 : Gly82-Tyr86 distance distribution using CHARMM36m forcefield](./SI/figure18)
 
