@@ -1,11 +1,11 @@
 # Enzyme activity
 
-## Enzyme activity with BSA 5 mg/ml
+## Figure 3a : Enzyme activity with BSA 5 mg/ml
 
 * [Experimental data](./a/data.expt)
 * [Fitting data](./a/data.fit)
 
-## Enzyme activity with BSA 100 mg/ml
+## Figure 3b : Enzyme activity with BSA 100 mg/ml
 
 * [Experimental data](./b/data.expt)
 * [Fitting data](./b/data.fit)
