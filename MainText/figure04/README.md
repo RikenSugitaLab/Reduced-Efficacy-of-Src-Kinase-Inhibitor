@@ -20,6 +20,11 @@
 * Pathway data
   * [Data](./d/data.ts)
 
+## File format
+
+* Pathway data
+ * column-1 : Protein-ligand distance xi (Angs)
+ * column-2 : angle theta (Degree)
 
 
 
