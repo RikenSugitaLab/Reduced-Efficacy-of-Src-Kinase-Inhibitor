@@ -1,0 +1,15 @@
+# column-1 : protein volume fraction                      (%) 
+# column-2 : PP1 prob. in water phase                     (%)
+# column-3 : Standard deviation of mean (SDM) of column-2 (%)
+# column-4 : PP1 prob. on c-Src kinase surface            (%)
+# column-5 : SDM of column-4                              (%)
+# column-6 : PP1 prob. on BSAs                            (%)
+# column-7 : SDM of column-6                              (%)
+# column-8 : PP1 prob. on single BSA                      (%)
+# column-9 : SDM of column-8                              (%)
+#
+#
+      0.0000000      79.9030000       0.9429000      20.0970000       0.9429000       0.0000000       0.0000000       0.0000000       0.0000000
+     10.8353000      28.1492000       3.2181500      16.5190000       1.6137500      55.3318000       3.1293000      27.6659000       1.5646500
+     16.8393000       8.7863100       2.4232900      11.0162000       3.1149150      80.1975000       4.5506500      20.0494000       1.1376500
+     29.6335000       1.8376200       0.4390350       8.3059600       4.3314500      89.8564000       4.3994500      11.2321000       0.5499500
