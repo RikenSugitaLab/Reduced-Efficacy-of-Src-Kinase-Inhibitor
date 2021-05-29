@@ -1,4 +1,4 @@
-# Enzyme activity
+# Figure 3 : Enzyme activity
 
 ## Figure 3a : Enzyme activity with BSA 5 mg/ml
 
