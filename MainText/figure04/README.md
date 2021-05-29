@@ -1,6 +1,6 @@
-# Ligand-Binding Pathways
+# Figure 4 : Ligand-Binding Pathways
 
-## Binding pathway in Dilute system
+## Figure 4c : Binding pathway in Dilute system
 
 * 2D-PMF data
   * [Matplotlib x-axis (xi / Angs)    data](./c/xi.dat)
@@ -10,7 +10,7 @@
 * Pathway data
   * [Data](./c/data.ts)
 
-## Binding pathway in Crowded system (Src8BSA)
+## Figure 4d : Binding pathway in Crowded system (Src8BSA)
 
 * 2D-PMF data
   * [Matplotlib x-axis (xi / Angs)    data](./d/xi.dat)
