@@ -23,8 +23,8 @@
 ## File format
 
 * Pathway data
- * column-1 : Protein-ligand distance xi (Angs)
- * column-2 : angle theta (Degree)
+  * column-1 : Protein-ligand distance xi (Angs)
+  * column-2 : angle theta (Degree)
 
 
 
