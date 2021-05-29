@@ -1,4 +1,4 @@
-# Probability of finding PP1 per unit protein surface area on the surface regions of c-Src kinase and BSA
+# Figure 2 : Probability of finding PP1 per unit protein surface area on the surface regions of c-Src kinase and BSA
 
 ## Data file
 
