@@ -14,8 +14,3 @@
     * [Matplotlib y-axis (theta / Degree) data](./b/yi.dat)
     * [Matplotlib map data (kcal/mol)](./b/pmf.dat)
 
-## File format
-
-* Pathway data
-  * column-1 : Protein-ligand distance xi (Angs)
-  * column-2 : angle theta (Degree)
