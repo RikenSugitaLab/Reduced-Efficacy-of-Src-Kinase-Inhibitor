@@ -29,6 +29,5 @@
     * [BSA](./c/data.bsa-src8bsa)
 
 ## File format
-
-    * column-1 : time (ns)
-    * column-2 : MSD (A^2)
+* column-1 : time (ns)
+* column-2 : MSD (A^2)
