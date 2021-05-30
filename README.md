@@ -28,6 +28,8 @@ Kento Kasahara, Suyong Re, Grzegorz Nawrocki, Hiraku Oshima, Chiemi Mishima-Tsum
 
 * [Figure 6 : SDF of Ca atoms in BSA around c-Src kinase](./SI/figure06)
 
+* [Figure 7 : SDF of PP1 around BSA](./SI/figure07)
+
 * [Figure 10 : PP1 probability in bulk water region, on c-Src kinase, and on BSAs](./SI/figure10)
 
 * [Figure 11 : Mean square displacement (MSD) of PP1](./SI/figure11)
