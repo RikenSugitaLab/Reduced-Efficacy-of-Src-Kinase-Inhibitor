@@ -1,4 +1,4 @@
-# Figure 5 : SDF of Ca atoms in BSA around c-Src kinase
+# Figure 6 : SDF of Ca atoms in BSA around c-Src kinase
 
 ## Src2BSA 
 
