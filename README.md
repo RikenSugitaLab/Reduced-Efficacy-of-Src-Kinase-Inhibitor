@@ -30,6 +30,8 @@ Kento Kasahara, Suyong Re, Grzegorz Nawrocki, Hiraku Oshima, Chiemi Mishima-Tsum
 
 * [Figure 7 : SDF of PP1 around BSA](./SI/figure07)
 
+* [Figure 9 : Characterization of binding sites on c-Src kinase and BSA](./SI/figure09)
+
 * [Figure 10 : PP1 probability in bulk water region, on c-Src kinase, and on BSAs](./SI/figure10)
 
 * [Figure 11 : Mean square displacement (MSD) of PP1](./SI/figure11)
