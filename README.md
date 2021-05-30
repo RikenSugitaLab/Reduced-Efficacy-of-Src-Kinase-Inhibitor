@@ -20,6 +20,8 @@ Kento Kasahara, Suyong Re, Grzegorz Nawrocki, Hiraku Oshima, Chiemi Mishima-Tsum
 
 ### Supporting Information
 
+* [Figure 2 : Root-mean-square-displacement (RMSD) of Ca atoms in c-Src kinase](./SI/figure02)
+
 * [Figure 10 : PP1 probability in bulk water region, on c-Src kinase, and on BSAs](./SI/figure10)
 
 * [Figure 11 : Mean square displacement (MSD) of PP1](./SI/figure11)
