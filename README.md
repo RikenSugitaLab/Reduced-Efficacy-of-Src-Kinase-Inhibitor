@@ -22,6 +22,8 @@ Kento Kasahara, Suyong Re, Grzegorz Nawrocki, Hiraku Oshima, Chiemi Mishima-Tsum
 
 * [Figure 2 : Root-mean-square-displacement (RMSD) of Ca atoms in c-Src kinase](./SI/figure02)
 
+* [Figure 3 : Time average of RMSD and RMSF](./SI/figure03)
+
 * [Figure 4 : Distribution of c-Src kinase conformations](./SI/figure04)
 
 * [Figure 5 : SDF of PP1 around c-Src kinase](./SI/figure05)
