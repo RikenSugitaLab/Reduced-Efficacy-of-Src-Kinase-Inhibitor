@@ -1,15 +1,5 @@
 # Figure 5 : SDF of Ca atoms in BSA around c-Src kinase
 
-## Dilute
-
-* [D-1G](./dilute/D-1G.dx)
-* [D-2G](./dilute/D-2G.dx)
-* [D-3G](./dilute/D-3G.dx)
-* [D-4G](./dilute/D-4G.dx)
-* [D-5G](./dilute/D-5G.dx)
-* [D-6G](./dilute/D-6G.dx)
-* [D-7A](./dilute/D-7A.dx)
-
 ## Src2BSA 
 
 * [C2-1G](./src2bsa/C2-1G.dx)
