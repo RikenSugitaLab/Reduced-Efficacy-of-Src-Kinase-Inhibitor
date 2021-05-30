@@ -40,7 +40,7 @@ Kento Kasahara, Suyong Re, Grzegorz Nawrocki, Hiraku Oshima, Chiemi Mishima-Tsum
 
 * [Figure 21 : MSD of water in the bulk water region](./SI/figure21)
 
-* [Figure 22 : Time series of Tyr82-Glye86 distance](./SI/figure22)
+* [Figure 22 : Time series of Tyr82-Gly86 distance](./SI/figure22)
 
 * [Figure 23 : Population of amino acids at the residue 82 among the variety of kinases](./SI/figure23)
 
