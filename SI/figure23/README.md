@@ -7,4 +7,4 @@
 ## File format
 
 * column-1 : Residue name [-]
-* column-2 : Population [-]
+* column-2 : Population [%]
